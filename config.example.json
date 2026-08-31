@@ -1,0 +1,12 @@
+{
+  "_설명": "이 파일을 config.json 으로 복사한 뒤 자기 값으로 채우세요. check_setup.py 가 검증해 줍니다.",
+  "work_root": "~/shorts-work",
+  "keys": {
+    "typecast": "~/.config/goldenjoy-shorts/keys/typecast",
+    "speechmatics": "~/.config/goldenjoy-shorts/keys/speechmatics"
+  },
+  "tts_voice": "",
+  "_tts_voice_설명": "비워두면 볼케이노 명화관 프리셋의 기본 배정 음성을 그대로 씁니다 (권장)",
+  "python": "python3",
+  "ffmpeg": "ffmpeg"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "goldenjoy-plugins",
+  "owner": { "name": "골든조이" },
+  "plugins": [
+    {
+      "name": "goldenjoy-shorts",
+      "source": "./",
+      "description": "영화 숏폼 제작 파이프라인 — 대본 구성 + 편집 검증 게이트 (볼케이노 명화관 프리셋 확장)"
+    }
+  ]
+}
